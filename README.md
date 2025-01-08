@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek H A</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekha1017](https://github.com/abhishekha1017)
 
